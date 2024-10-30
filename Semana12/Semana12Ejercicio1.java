@@ -3,7 +3,7 @@ package Semana12;
 public class Semana12Ejercicio1 {
 
     static String[] palabras = {"hola", "papa", "eafit"};
-    static char[][] sopa = { 
+    static char[][] sopa = {
             {'h', 'o', 'l', 'a'},
             {'p', 'a', 'p', 'a'},
             {'e', 'a', 'f', 'i'},
