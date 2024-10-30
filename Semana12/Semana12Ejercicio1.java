@@ -2,8 +2,8 @@ package Semana12;
 
 public class Semana12Ejercicio1 {
 
-    static String[] palabras = {"hola", "papa", "eafit"}; // lista de palabras a buscar, incluyendo "eafit"
-    static char[][] sopa = { // ejemplo de sopa de letras
+    static String[] palabras = {"hola", "papa", "eafit"};
+    static char[][] sopa = { 
             {'h', 'o', 'l', 'a'},
             {'p', 'a', 'p', 'a'},
             {'e', 'a', 'f', 'i'},
