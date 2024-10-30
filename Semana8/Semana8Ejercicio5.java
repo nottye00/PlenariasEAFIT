@@ -99,7 +99,7 @@ public class Semana8Ejercicio5 {
 
     public static void imprimirTodosEstudiantes() {
         for (int i = 0; i < n; i++) {
-            System.out.println("Estudiante " + (i + 1) + ":");
+            System.out.println("Semana14.Estudiante " + (i + 1) + ":");
             System.out.println("ID: " + estudiantes[0][i]);
             System.out.println("Edad: " + estudiantes[1][i]);
             System.out.println("Año de nacimiento: " + estudiantes[2][i]);
