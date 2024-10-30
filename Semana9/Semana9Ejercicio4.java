@@ -1,3 +1,5 @@
+package Semana9;
+
 public class Semana9Ejercicio4 {
     public static void main(String[] args) {
         String str1 = "Esta es una prueba de string, que verifica donde esta un string";

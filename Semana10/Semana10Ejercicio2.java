@@ -1,3 +1,5 @@
+package Semana10;
+
 import java.util.ArrayList;
 
 public class Semana10Ejercicio2 {

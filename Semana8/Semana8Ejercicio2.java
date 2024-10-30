@@ -1,3 +1,5 @@
+package Semana8;
+
 import java.util.Scanner;
 
 public class Semana8Ejercicio2 {

@@ -1,3 +1,5 @@
+package Semana8;
+
 public class Semana8Ejercicio1 {
     public static void main(String[] args) {
         int[][] matriz = new int[3][3];
